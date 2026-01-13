@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Élodie
 
-Front-End Web Developer Junior, recently graduated with the **CDA (Conceptrice Développeuse d’Applications)** certification.  
+## <p align='center' p> Front-End Web Developer Junior, recently graduated with the **CDA (Conceptrice Développeuse d’Applications)** certification.  
 I enjoy building **modern, responsive and accessible web interfaces** using **React** and **Next.js**.
 
 ---
